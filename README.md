@@ -84,12 +84,4 @@ An intelligent food ordering chatbot built using **Dialogflow**, **FastAPI**, an
 - Configure the webhook URL to point to your ngrok HTTPS URL.
 - Enable fulfillment for required intents.
 
----
 
-## ✨ Screenshots (Add if available)
-
-| Chatbot Interface | FastAPI Response | Ngrok Tunnel |
-|-------------------|------------------|--------------|
-| ![Chatbot](images/chatbot-ui.png) | ![FastAPI](images/fastapi-terminal.png) | ![Ngrok](images/ngrok.png) |
-
----
