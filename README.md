@@ -34,8 +34,8 @@ An intelligent food ordering chatbot built using **Dialogflow**, **FastAPI**, an
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/Siuli-Sharon-Sabnam/End-to-End-NLP-Chatbot.git
+   cd End-to-End-NLP-Chatbot
    ```
 
 2. **Install dependencies**:
